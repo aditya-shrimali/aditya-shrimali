@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Shrimali</h1>
-<h3 align="left">A passionate Full Stack Developer. Interested in learning new technologies. I am a 3rd year IT student with a strong hold on software fundamentals along with IOT.</h3>
+<h3 align="left">A passionate Full Stack Developer. Interested in learning new technologies. I am a final year IT student with a strong hold on software fundamentals along with IOT.</h3>
 
 - **🌱 I’m currently learning React and DevOps Fundamentals**  
   
